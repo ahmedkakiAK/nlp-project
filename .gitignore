@@ -1,0 +1,47 @@
+# macOS system files
+.DS_Store
+
+# Python bytecode files and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Log files
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# Cache directories
+.cache/
+*.cache
+
+# Tool-specific cache directories
+.mypy_cache/
+.pytest_cache/
+.pip_cache/
+.tox/
+.coverage
+coverage.xml
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Git Large File Storage pointer files
+*.lfs
