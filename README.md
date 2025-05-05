@@ -7,17 +7,6 @@ This project was developed as part of the **Machine Learning for Natural Languag
 - Ahmed Khairaldin  
 - Imrane Zaakour
 
-## 📁 Project Structure
-.
-├── data/
-│ ├── raw/ # Raw datasets (ISOT, Kaggle Real or Fake)
-│ └── processed/ # Preprocessed train/test data
-├── preprocess_data.py # Script to preprocess raw data
-├── notebook_dl_models.ipynb # RNN, LSTM, and GRU models
-├── Transformer.ipynb # Transformer model
-├── zero_shot_classification.ipynb # Zero-shot classification
-└── README.md # This file
-
 ## 📊 Datasets
 
 We use two publicly available datasets for fake news detection:
